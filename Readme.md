@@ -4,6 +4,7 @@ To clone this repository as an Expo template, simply copy and paste the followin
 
 ```bash
 npx create-expo-app@latest my-new-app --template https://github.com/MaxiARG/Tamagui-Reanimated-Template
+```
 
 ### The project contains:
 - **React Navigation**
