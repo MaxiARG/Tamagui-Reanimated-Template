@@ -28,36 +28,7 @@ const Home = () => {
             >
                 <View rowGap={10} alignItems="center">
                     <Text link onPress={() => navigation.navigate('ShakingView')}>❤️ Shaking View</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
-                    <Text>Home</Text>
+                    <Text>Just another placeholder</Text>
                 </View>
             </ScrollView>
             <View flex={0.4} backgroundColor={'white'}></View>
