@@ -6,6 +6,9 @@ npx create-expo-app@latest my-new-app --template https://github.com/MaxiARG/Tama
 The project contains:
 
 React Navigation
+
 Reanimated
+
 Gesture Handler
+
 Tamagui
